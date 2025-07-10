@@ -7,12 +7,18 @@
   font-family: "Titillium Web", sans-serif;
 }
 
+
 .menu {
   background-color: rgba(21, 21, 225, 0.795);
-  margin: auto;
   height: 100vh;
   padding-left: 40px;
   padding-top: 30px;
+}
+
+.logo {
+  margin-left: 25%;
+  color: #ffffff;
+  margin-bottom: 40px;
 }
 
 .layout {
@@ -62,11 +68,10 @@ a {
 .header_left {
   display: flex;
   align-items: center;
-  margin-left: 30px;
 }
 
 .header-btn {
-  margin-left: 25%;
+  margin-left: 20%;
 }
 
 .menu-btn {
@@ -140,8 +145,6 @@ a {
   border-radius: 4px;
 }
 
-
-
 .form-submit {
   background-color: #04aa6d;
 }
@@ -165,8 +168,6 @@ a {
 .btn-show-book-list {
   background-color: #048eaa;
 }
-
-
 
 .form {
   display: flex;
